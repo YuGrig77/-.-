@@ -1,0 +1,15 @@
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\bin\Debug\net6.0\Final_Test.exe
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\bin\Debug\net6.0\Final_Test.deps.json
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\bin\Debug\net6.0\Final_Test.runtimeconfig.json
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\bin\Debug\net6.0\Final_Test.dll
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\bin\Debug\net6.0\Final_Test.pdb
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\Final_Test.csproj.AssemblyReference.cache
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\Final_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\Final_Test.AssemblyInfoInputs.cache
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\Final_Test.AssemblyInfo.cs
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\Final_Test.csproj.CoreCompileInputs.cache
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\Final_Test.dll
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\refint\Final_Test.dll
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\Final_Test.pdb
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\Final_Test.genruntimeconfig.cache
+C:\Users\YuryG\OneDrive\Рабочий стол\Bloc overall results. Specialization select\Final_Test\obj\Debug\net6.0\ref\Final_Test.dll
