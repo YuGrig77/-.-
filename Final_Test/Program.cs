@@ -28,5 +28,6 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
 ChoosenWordsIf(words, words_to_choose);
 PrintArray(words_to_choose);
